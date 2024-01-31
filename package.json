@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-reject",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return a shallow copy of an array containing only those elements which fail a test implemented by a predicate function.",
   "license": "Apache-2.0",
   "author": {
