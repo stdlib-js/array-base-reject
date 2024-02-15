@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reject@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-reject/tags). For example,
+
+```javascript
 import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reject@v0.2.0-deno/mod.js';
 ```
 
@@ -125,7 +130,7 @@ var cnt = context.count;
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 var isPositiveInteger = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-positive-integer' ).isPrimitive;
 import naryFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nary-function@deno/mod.js';
-import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reject@v0.2.0-deno/mod.js';
+import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reject@deno/mod.js';
 
 var x = discreteUniform( 10, -5, 5, {
     'dtype': 'int32'
