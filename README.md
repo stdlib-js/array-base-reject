@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reject@esm/index.mjs';
+import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reject@v0.2.2-esm/index.mjs';
 ```
 
 #### reject( x, predicate\[, thisArg] )
@@ -130,7 +130,7 @@ var cnt = context.count;
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 var isPositiveInteger = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-positive-integer' ).isPrimitive;
 import naryFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nary-function@esm/index.mjs';
-import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reject@esm/index.mjs';
+import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reject@v0.2.2-esm/index.mjs';
 
 var x = discreteUniform( 10, -5, 5, {
     'dtype': 'int32'
