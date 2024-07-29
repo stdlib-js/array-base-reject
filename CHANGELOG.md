@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.2">
 
-## Unreleased (2024-07-17)
+## 0.2.2 (2024-07-29)
 
 <section class="commits">
 
@@ -42,6 +42,26 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 <section class="release" id="v0.2.1">
 
 ## 0.2.1 (2024-02-25)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
+
+## 0.2.0 (2024-02-15)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2024-01-31)
 
 <section class="features">
 
