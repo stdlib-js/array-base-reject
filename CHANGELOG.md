@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`30e3116`](https://github.com/stdlib-js/stdlib/commit/30e31169773fecb73cef596931064d92513d993c) - **chore:** clean-up [(#14969)](https://github.com/stdlib-js/stdlib/pull/14969) _(by Philipp Burckhardt)_
 -   [`1038f59`](https://github.com/stdlib-js/stdlib/commit/1038f593e4cd4b7167f99bc8aee9e5106416b03a) - **feat:** add float16 dtype support to `array/base/*` [(#14896)](https://github.com/stdlib-js/stdlib/pull/14896) _(by Gururaj Gurram, Athan Reines)_
 -   [`ed5107b`](https://github.com/stdlib-js/stdlib/commit/ed5107b9f6d4e5f74a2a6205f6382cfddef0367b) - **docs:** fix return annotation _(by Athan Reines)_
 -   [`794978c`](https://github.com/stdlib-js/stdlib/commit/794978cdb1260c55085e2e2a27f65fe899bcdff8) - **chore:** fix JavaScript lint errors [(#13015)](https://github.com/stdlib-js/stdlib/pull/13015) _(by titanniya542-spec)_
@@ -49,11 +50,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
 -   Karan Anand
+-   Philipp Burckhardt
 -   titanniya542-spec
 
 </section>
